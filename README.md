@@ -2,8 +2,6 @@
 
 ![Hello I'm Victor Sena](./images/jim-hello.gif)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorisena&layout=compact)
-
 ## Who am I?
 
 I'm a software engineer with a passion for all things IT. I currently work for a financial company, where I apply my skills to develop and maintain software solutions.
@@ -11,8 +9,6 @@ I'm a software engineer with a passion for all things IT. I currently work for a
 My journey with computers began when my dad and brother encouraged me to start using them at the age of seven. I remember developing my first website called "Hello, World!" using HTML and CSS.
 
 Ever since then, I've been continuously learning and expanding my knowledge. I'm proficient in several programming languages, including JavaScript, Python, .NET, and Java. I'm also familiar with popular frameworks like Node.js, React, and C#.
-
-![Victor Sena GitHub stats](https://github-readme-stats.vercel.app/api?username=victorisena&show_icons=true&theme=dracula)
 
 ## What are my interests and hobbies?
 
