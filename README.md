@@ -19,5 +19,5 @@ Aside from programming, I'm a big sports fan, and I enjoy playing and watching f
 Feel free to connect with me on:
 
 * Email: victorigorsena@gmail.com
-* LinkedIn: [linkedin.com/in/victor-igor-sena](https://www.linkedin.com/in/victor-igor-sena/)
+* LinkedIn: [linkedin.com/in/victor-igor-sena](https://www.linkedin.com/in/victorigorsena/)
 * Twitter: [@victorisena](https://twitter.com/victorisena)
